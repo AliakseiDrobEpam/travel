@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=XbnAKjjlgc4
+1. add /* Base styling*/ *{padding:0, margin:0, font-size: 62.5%(10px and then for all element in rem or em) etc}
+2. body {font-family etc by default}
+3 height and width in %
+4. 320 px min size for mobile
+5. main-container --> min-width: 320px, max-width:
+6. add comennts in CSS (header styles etc.)
+7. margine: 0px auto ----> контент по центру 
+8. Адаптивная верстка ---->для главного контейнера ставим max-width, вместо width + убираем везде значения width:
